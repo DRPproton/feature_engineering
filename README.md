@@ -1,3 +1,3 @@
-# feature_engineering_bookcamp
+# Feature_engineering 
 
-See [notebooks](utils) for full code from all chapters
+
